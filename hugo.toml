@@ -1,3 +1,6 @@
 baseURL = 'https://events.insileco.io/'
 languageCode = 'en-us'
 title = 'inSileco Events'
+
+[params]
+description = 'Current Event Page'
